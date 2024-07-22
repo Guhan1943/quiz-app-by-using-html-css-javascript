@@ -1,0 +1,62 @@
+body{
+  padding: 100px 300px;
+  transition: 0.5s;
+
+}
+h1
+{
+  padding: 50px;
+}
+.main
+{
+  background-color: antiquewhite;
+  padding: 20px;
+}
+#option1
+{
+  margin: 5px;
+  transition: 0.5s;
+ 
+  background-color: #fff;
+}
+#option2
+{
+  transition: 0.5s;
+  margin: 5px;
+  background-color: #fff;
+  
+}
+#option3
+{
+  margin: 5px;
+  transition: 0.5s;
+  background-color: #fff;
+  
+}
+#option4
+{
+  transition: 0.5s;
+  margin: 5px;
+  background-color:#fff;
+  
+}
+.option{
+  margin-left: 30px;
+  font-size: 20px;
+  width: 100%;
+  word-spacing: 5px;
+
+}
+span{
+  height: 100%;
+  width: 100%;
+}
+button
+{
+  height: 50px;
+  width: 50px;
+  font-size: 30px;
+  background-color: red;
+  border: none;
+}
+
